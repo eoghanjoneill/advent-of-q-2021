@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-q-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1206-pascals-triangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
